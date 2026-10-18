@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig(({ mode }) => ({
   plugins: [react()],
-  base: mode === 'github-pages' ? '/lime-cabin-3d/' : './',
+  base: mode === 'github-pages' ? '/cabin/' : './',
   build: { target: 'es2022' },
 }));

@@ -2,7 +2,7 @@
 
 An interactive airline seat selection prototype built from the supplied 3D asset archives. It uses a real aircraft cabin mesh and a reusable polygonal seat model. The web app is React, TypeScript, React Three Fiber, Drei, Three.js, and Vite.
 
-**Live demo:** https://tomiabe.github.io/lime-cabin-3d/
+**Live demo:** https://tomiabe.github.io/cabin/
 
 To view the included build without installing anything, run python3 run_preview.py. It starts a local server on an available port and opens the prototype in your browser. Stop it with Ctrl+C.
 
